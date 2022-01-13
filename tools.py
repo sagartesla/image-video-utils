@@ -198,11 +198,3 @@ input_images_folder_path = '/u/test/'
 
 create_raw_planar(video_file_path, -1)
 read_raw_planar(raw_video_file_path, (3,720,1280))
-
-# create_raw_inter(video_file_path, -1)
-# read_raw_inter(raw_video_file_path,(3,720,1280))
-
-# batch_raw_to_file_from_multiple_folder(input_images_folder_path)
-# batch_raw_to_file_signed(input_images_folder_path)
-# batch_raw_to_file(input_images_folder_path)
-
